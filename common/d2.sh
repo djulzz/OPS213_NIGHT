@@ -1,0 +1,1 @@
+/home/djulzz/dev/OPS213_NIGHT/d2/s2.sh
